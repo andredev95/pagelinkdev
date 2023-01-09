@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ Owl-Codert :wave: [Participe da nossa comunidade!](https://#)
+Feito com ♥ Owl-Coder :wave: [Participe da nossa comunidade!](https://#)
